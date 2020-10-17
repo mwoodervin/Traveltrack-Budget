@@ -1,17 +1,15 @@
 
 // UPDATE THIS SECTION
-// const FILES_TO_CACHE = [
-//     '/',
-//     '/index.html',
-//     '/favorites.html',
-//     '/topic.html',
-//     '/assets/css/style.css',
-//     '/dist/app.bundle.js',
-//     '/dist/favorites.bundle.js',
-//     '/dist/topic.bundle.js',
-//     'https://fonts.googleapis.com/css?family=Istok+Web|Montserrat:800&display=swap',
-//     'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css',
-//   ];
+const FILES_TO_CACHE = [
+    '/',
+    '/index.html',
+    '/assets/css/style.css',
+    '/dist/app.bundle.js',
+    'pulic/icons/icon-192x192.png',
+    'pulic/icons/icon-512x512.png',
+    'https://fonts.googleapis.com/css?family=Istok+Web|Montserrat:800&display=swap',
+    'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css',
+  ];
   
   const PRECACHE = 'precache-v1';
   const RUNTIME = 'runtime';
