@@ -29,7 +29,7 @@ const config = {
       fingerprints: false,
       name: 'Traveltrack-Budget',
       short_name: 'Budget',
-      description: 'An application that allows you to track budget activity both on- and off-line.',
+      description: 'An application that allows users to track budget activity both on- and off-line.',
       background_color: '#01579b',
       theme_color: '#ffffff',
       'theme-color': '#ffffff',
