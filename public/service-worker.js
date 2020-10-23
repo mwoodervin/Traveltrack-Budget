@@ -4,9 +4,10 @@ const FILES_TO_CACHE = [
     '/',
     '/index.html',
     '/assets/css/style.css',
+    // '/assets/js/index.js',
     '/dist/app.bundle.js',
-    'pulic/icons/icon-192x192.png',
-    'pulic/icons/icon-512x512.png',
+    '/icons/icon-192x192.png',
+    '/icons/icon-512x512.png',
     'https://fonts.googleapis.com/css?family=Istok+Web|Montserrat:800&display=swap',
     'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css',
   ];
